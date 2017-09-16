@@ -14,4 +14,4 @@ The .mexw64 is generated on win64-vs2013
 
 The .mexw64 is generated on win64-vs2013
 
-The work mainly derives from Chunming Li's [DRLSE](http://www.imagecomputing.org/~cmli/paper/DRLSE.pdf)  http://www.imagecomputing.org/~cmli/paper/DRLSE.pdf
+The work mainly derives from Chunming Li's [DRLSE](http://www.imagecomputing.org/~cmli/paper/DRLSE.pdf)
