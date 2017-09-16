@@ -13,3 +13,5 @@ The .mexw64 is generated on win64-vs2013
 ## Make the *del2* operator much faster by rewriting *del2* to *DEL2*
 
 The .mexw64 is generated on win64-vs2013
+
+The work mainly derives from Chunming Li's [DRLSE](http://www.imagecomputing.org/~cmli/paper/DRLSE.pdf)  http://www.imagecomputing.org/~cmli/paper/DRLSE.pdf
